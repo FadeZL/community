@@ -13,4 +13,4 @@
 [visual Paradigm](https://www.visual-paradigm.com)
 
 ##杂物
-![avatar](E:/找实习/项目学习/MaJiang/杂物/Github登陆时序图)
+[avatar](E:/找实习/项目学习/MaJiang/杂物/Github登陆时序图)
