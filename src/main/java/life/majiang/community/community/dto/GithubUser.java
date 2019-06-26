@@ -29,4 +29,13 @@ public class GithubUser {
     public void setBoi(String boi) {
         this.boi = boi;
     }
+
+    @Override
+    public String toString() {
+        return "GithubUser{" +
+                "id=" + id +
+                ", name='" + name + '\'' +
+                ", boi='" + boi + '\'' +
+                '}';
+    }
 }
